@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259757111315",
+    "project_id": "mynotes-phoenix-developm-17faf",
+    "storage_bucket": "mynotes-phoenix-developm-17faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259757111315:android:67edc07de759a1d583e7e6",
+        "android_client_info": {
+          "package_name": "com.phoenix.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259757111315-qnl83u9bke5ld9vj3qdv11dmjgmnchil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH38b0CfI4wf5-7zZLFThDRStzReu_nxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259757111315-qnl83u9bke5ld9vj3qdv11dmjgmnchil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
